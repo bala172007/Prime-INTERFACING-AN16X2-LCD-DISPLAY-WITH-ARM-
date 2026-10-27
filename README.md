@@ -629,7 +629,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output screen shots of proteus  :
 
-<img width="1600" height="999" alt="image" src="https://github.com/user-attachments/assets/9ec5acc4-2016-4b8e-a4b4-9e31af68e5d7" />
+<img width="1587" height="991" alt="Proteus Schematic with BALA LCD Display" src="https://github.com/user-attachments/assets/e5d1e8b8-3a0c-48dd-bde6-f2a20f1a732c" />
+
 
 
  
